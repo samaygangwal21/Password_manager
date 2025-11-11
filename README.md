@@ -38,15 +38,16 @@ The application combines traditional rule-based validation with ML classificatio
 
 ## 🏗️ Project Structure
 
-Password-Manager-AI/
-├── password_manager.py # Tkinter GUI app
-├── password_strength_model.py # ML training script
-├── password_strength.csv # Dataset (used for training)
-├── strength_model.pkl # Saved ML model
-├── vectorizer.pkl # Saved text vectorizer
-├── data.json # Saved passwords (auto-created)
-├── logo.png # App logo
-└── README.md # This file
+password_manager/
+├── password_manager.py          # Tkinter GUI app (main program)
+├── password_strength_model.py   # ML model training script
+├── password_strength.csv        # Training dataset
+├── strength_model.pkl           # Trained ML model
+├── vectorizer.pkl               # Fitted CountVectorizer
+├── data.json                    # User password storage (auto-generated)
+├── logo.png                     # Application logo
+├── README.md                    # Project documentation
+└── .gitignore                   # Git ignore file
 
 
 ---
