@@ -38,6 +38,7 @@ The application combines traditional rule-based validation with ML classificatio
 
 ## 🏗️ Project Structure
 
+```
 password_manager/
 ├── password_manager.py          # Tkinter GUI app (main program)
 ├── password_strength_model.py   # ML model training script
@@ -48,6 +49,8 @@ password_manager/
 ├── logo.png                     # Application logo
 ├── README.md                    # Project documentation
 └── .gitignore                   # Git ignore file
+```
+
 
 
 ---
