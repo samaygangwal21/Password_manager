@@ -57,8 +57,6 @@ password_manager/
 
 ## 🖼️ Screenshots
 
-
-<img width="624" height="542" alt="Screenshot 2025-11-11 140959" src="https://github.com/user-attachments/assets/7c1b30de-8f30-4a34-b92a-2499baaa80a3" />
 <img width="625" height="567" alt="Screenshot 2025-11-11 160822" src="https://github.com/user-attachments/assets/1d4441f8-5aa6-492c-9f69-2cc577e846f7" />
 <img width="627" height="559" alt="Screenshot 2025-11-11 161147" src="https://github.com/user-attachments/assets/56a59a03-23be-445d-94e5-50231bfda749" />
 <img width="631" height="565" alt="Screenshot 2025-11-11 161109" src="https://github.com/user-attachments/assets/f26eea68-c0c1-40ad-a931-51184357d6d6" />
